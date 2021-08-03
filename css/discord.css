@@ -915,7 +915,7 @@ body {
   padding: 0 16px;
 }
 .app .base-server .main .container .chatContent .messagesWrap {
-  max-height: 75vh;
+  max-height: calc(100vh - 124px);
   text-align: center;
   overflow: hidden scroll;
 }
