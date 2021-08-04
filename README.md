@@ -1,5 +1,5 @@
 # Discord
-本次專案主要練習較複雜版型的切版 **Discord!**<br>
+本次專案主要練習較複雜PC端版型的切版 **Discord!**<br>
 **Discord**是一款專為社群設計的免費網路即時通話軟體<br>
 ## Demo
 [Github Page](https://zx12201220.github.io/discord/)
