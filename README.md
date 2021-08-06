@@ -5,8 +5,7 @@
 [Github Page](https://zx12201220.github.io/discord/)
 ## 使用技術
 **Html**<br>
-**Css**<br>
-**Less**<br>
+**Css/Less**<br>
 **JavaScript**<br>
 ## 展示頁面
 ![](https://cdn.discordapp.com/attachments/726376206177665069/872132183177977896/unknown.png)
